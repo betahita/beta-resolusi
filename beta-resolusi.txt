@@ -1,0 +1,6 @@
+Resolusi 2020
+- Memperdalam konsep dan penerapan SIEM
+- Memulai untuk mengenal dan menguasai Blue Team.
+- Mempelajari bahasa pemrograman Python dan Kotlin
+- Konsisten mengikuti kelas-kelas online
+- Setiap hari minimal 2 jam untuk mempelajari materi dari kelas-kelas online.
