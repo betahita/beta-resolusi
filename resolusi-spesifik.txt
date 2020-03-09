@@ -4,6 +4,7 @@ RESOLUSI SPESIFIK
  * Web framework
  * Data science
 - CCNA
+ * Play Packet Tracer dan GNS3
 - Mastering SIEM
  * Qradar
  * AlienVault
