@@ -7,3 +7,4 @@ RESOLUSI SPESIFIK
 - Mastering SIEM
 - Malware analysis
 - Play with Kali Linux
+- Mastering Linux
