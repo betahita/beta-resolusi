@@ -5,6 +5,8 @@ RESOLUSI SPESIFIK
  * Data science
 - CCNA
 - Mastering SIEM
+ * Qradar
+ * AlienVault
 - Malware analysis
 - Play with Kali Linux
 - Mastering Linux
