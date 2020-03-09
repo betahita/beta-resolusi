@@ -1,6 +1,8 @@
 RESOLUSI SPESIFIK
 
 - Python programming
+ * Web framework
+ * Data science
 - CCNA
 - Mastering SIEM
 - Malware analysis
