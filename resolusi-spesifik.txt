@@ -1,0 +1,7 @@
+RESOLUSI SPESIFIK
+
+- Python programming
+- CCNA
+- Mastering SIEM
+- Malware analysis
+- Play with Kali Linux
