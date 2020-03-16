@@ -5,6 +5,7 @@ RESOLUSI SPESIFIK
  * Data science
 - CCNA
  * Play Packet Tracer dan GNS3
+ * Latihan exam CCNA
 - Mastering SIEM
  * Qradar
  * AlienVault
