@@ -4,7 +4,7 @@ RESOLUSI SPESIFIK
  * Web framework
  * Data science
 - CCNA
+* Latihan exam CCNA
 - Mastering SIEM
-- Malware analysis
 - Play with Kali Linux
 - Mastering Linux
