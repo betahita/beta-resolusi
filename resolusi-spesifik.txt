@@ -4,7 +4,11 @@ RESOLUSI SPESIFIK
  * Web framework
  * Data science
 - CCNA
+ * Play Packet Tracer dan GNS3
+ * Latihan exam CCNA
 - Mastering SIEM
+ * Qradar
+ * AlienVault
 - Malware analysis
 - Play with Kali Linux
 - Mastering Linux
